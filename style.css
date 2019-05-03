@@ -1,5 +1,8 @@
 body {
-  background-color: #adcfeb
+  background-color: #adcfeb;
+  font-family: 'Varela Round', sans-serif;
+
+
 }
 
 *{
@@ -8,7 +11,7 @@ body {
 }
 
 nav {
-  background-color:#afce;
+  background-color:#0797E3;
   height: 40px;
 }
 
@@ -31,14 +34,14 @@ nav ul li{
 
 li a{
  text-decoration: none;
- color: #aaaaff;
+ color: #ffffff;
  line-height: 40px;
  display: block;
 }
 
 li a:hover{
-  background-color:#aaaaff;
-  color: aquamarine;
+  background-color: #41DAFF;
+  color: #ffffff;
 }
 
 .word {
